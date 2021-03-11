@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\Example_Tasks\Task7.scala:5:8: not found: object cats[0m
+[0m[[0m[31merror[0m] [0m[0mimport cats.Apply[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\Example_Tasks\Task7.scala:163:98: not found: type Apply[0m
+[0m[[0m[31merror[0m] [0m[0m    def universalMap2[A, B, C, M[_]](m1: M[A], m2: M[B])(fab: (A, B) => C)(implicit applicative: Apply[M]): M[C] = ???[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\Example_Tasks\Task7.scala:166:115: not found: type Apply[0m
+[0m[[0m[31merror[0m] [0m[0m    def universalMap3[A, B, C, D, M[_]](m1: M[A], m2: M[B], m3: M[C])(fabc: (A, B, C) => D)(implicit applicative: Apply[M]): M[D] = ???[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\Example_Tasks\Task8.scala:42:12: not found: value cats[0m
+[0m[[0m[31merror[0m] [0m[0m    import cats.data.OptionT[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\Example_Tasks\Task8.scala:43:12: not found: value cats[0m
+[0m[[0m[31merror[0m] [0m[0m    import cats.implicits._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\Example_Tasks\Task8.scala:46:13: not found: value OptionT[0m
+[0m[[0m[31merror[0m] [0m[0m      id <- OptionT(service1("company1"))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\Example_Tasks\Task8.scala:47:18: not found: value OptionT[0m
+[0m[[0m[31merror[0m] [0m[0m      company <- OptionT(service2(id))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

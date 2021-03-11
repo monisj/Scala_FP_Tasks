@@ -1,0 +1,31 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:8:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mProcedure Task3 {id,name,email}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:9:2: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m	id input = get data from user     //Data is sent from the user i.e 1[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:10:2: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m	database = information pre-stored   //Can be a list of data i.e. 1,Monis, monisj94@gmail.com[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:11:2: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m	id in database.map(getdata).formap(getmeeting).getorElse(gotoerrorPage)         [0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:13:2: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m	login.id ==1.map(assignhtml to success page).map(show sucess page).orElse(show error page) //As in if found for exsisting user  [0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:14:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mProcedure HTML {id,name,email}      //UserDAO HTML page [0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:15:2: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m	body = html body            //Here our above list of data is converted to HTML like <h1>$body</h1>[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:16:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mProcedure Error_Page (HTML) {     //Front End Error_page[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:19:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mProcedure Success_Page (HTML) {     //Front_End Sucess Page[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\test.scala:22:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mProcedure Meeting_Log (ID){ //Meeting time decision[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m10 errors found[0m

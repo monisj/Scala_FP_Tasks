@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Task\Solutions\Task7S.scala:23:7: (String, String) does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m      ("John", "Porsche"), ("Jane", "Porsche"), ("Kubica", "Porsche"),("Linus","Porsche")))[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
