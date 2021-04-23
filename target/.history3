@@ -4,3 +4,35 @@
 1615276907000::quit
 1615276909928::help
 1615276925122::q
+1619195240282:scalac test.scala
+1619195255795:testOnly: test.scala
+1619195325999:testOnly test.scala
+1619195347384:scalac test
+1619195353620:testOnly test.scala
+1619195357828:testOnly test
+1619195447301:scalac Task1.scala
+1619195481099:testOnly test.scala
+1619195520741:testOnly HelloWorld.scala
+1619195524206:testOnly HelloWorld
+1619195533116:scalac HelloWorld
+1619195542143:scalac: HelloWorld
+1619195578495:scalac HelloWorld.scala
+1619195659902:HelloWorld.main
+1619195692431:testOnly HelloWorld
+1619195705470:scalac
+1619195727473:scalac Task1.scala
+1619195736847:cd Example_tasks
+1619195763169:scalac Task1.scala
+1619195772582:testOnly: test.scala
+1619195776433:testOnly test.scala
+1619195923508:run
+1619195932234:testOnly HelloWorld
+1619195937279:runOnly
+1619195940429:help
+1619195979084:scala HelloWorld
+1619195984086:HelloWorld
+1619195990539:run HelloWorld
+1619196001833:run Task1.scala
+1619196012033:testOnly Task1
+1619196087432:test
+1619196340964:run

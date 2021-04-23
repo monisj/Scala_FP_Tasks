@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(HelloWorld.main, Some(5de8458b-dd5a-4a75-bd24-0bae89b5cead), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ID character[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: HelloWorld[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0mExpected configuration[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected configuration ident[0m
+[0m[[0m[31merror[0m] [0m[0mExpected '/'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected key[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: HelloWorld[0m
+[0m[[0m[31merror[0m] [0m[0mHelloWorld.main[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

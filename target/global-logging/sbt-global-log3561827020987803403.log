@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly test.scala, Some(f2e82986-f8a8-40b9-b1af-ec4011542614), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / testOnly[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 0, Failed 0, Errors 0, Passed 0[0m
+[0m[[0m[0minfo[0m] [0m[0mNo tests to run for Test / testOnly[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed Apr 23, 2021, 9:36:17 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

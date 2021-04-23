@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(testOnly: test.scala, Some(30972fcd-ccfa-4d16-a120-9fe3511c8da3), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected key[0m
+[0m[[0m[31merror[0m] [0m[0mExpected '*'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected 'Zero'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected '::'[0m
+[0m[[0m[31merror[0m] [0m[0mtestOnly: test.scala[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

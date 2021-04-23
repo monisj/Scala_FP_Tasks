@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(scalac Task1.scala, Some(e92249a9-f42a-43a8-a384-bf352471f7af), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ID character[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: scalac (similar: alias)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0mExpected configuration[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected key[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: scalac (similar: scalaSource, scalaHome, scalaInstance)[0m
+[0m[[0m[31merror[0m] [0m[0mscalac Task1.scala[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

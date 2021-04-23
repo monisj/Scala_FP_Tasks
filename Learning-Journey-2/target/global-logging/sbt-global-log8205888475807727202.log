@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(84d3efe2-c220-4a3d-8b3d-8ea523de8141), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Exercise1.scala:30:13: z1 is already defined as variable z1[0m
+[0m[[0m[31merror[0m] [0m[0m        var z1 : Array [String] = _[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed Apr 23, 2021, 10:09:33 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
