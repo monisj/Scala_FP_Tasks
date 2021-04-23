@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Exercise1.scala:30:13: z1 is already defined as variable z1[0m
-[0m[[0m[31merror[0m] [0m[0m        var z1 : Array [String] = _[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Exercise2.scala:14:13: s is already defined as variable s[0m
+[0m[[0m[31merror[0m] [0m[0m        var s = Set(1,3,5,7)[0m
 [0m[[0m[31merror[0m] [0m[0m            ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
