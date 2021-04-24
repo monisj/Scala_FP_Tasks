@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Exercise2.scala:14:13: s is already defined as variable s[0m
-[0m[[0m[31merror[0m] [0m[0m        var s = Set(1,3,5,7)[0m
-[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Exercise3.scala:16:32: Int does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m        case Some(s) => s.toInt()[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
