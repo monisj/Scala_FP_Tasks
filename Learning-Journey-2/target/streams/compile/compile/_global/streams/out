@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Exercise3.scala:16:32: Int does not take parameters[0m
-[0m[[0m[31merror[0m] [0m[0m        case Some(s) => s.toInt()[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Exercise4.scala:20:32: value mkString is not a member of (String, String) => Array[String][0m
+[0m[[0m[31merror[0m] [0m[0m        println(s"\n${getFruit.mkString("")}")[0m
 [0m[[0m[31merror[0m] [0m[0m                               ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,1 +1,21 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/learning-journey-2_2.12-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/learning-journey-2_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise3$Absoulte$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise3$Absoulte$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/target/scala-2.12/classes/Exercise2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
