@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Task1.scala:5:49: not found: value Random[0m
-[0m[[0m[31merror[0m] [0m[0m        val List1: List[Int] = List.fill(15)(50+Random.nextInt(500-50)+1)[0m
-[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Task2.scala:6:48: not found: value list[0m
+[0m[[0m[31merror[0m] [0m[0m                else recursion(start.toChar :: list,start+1,end)[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
