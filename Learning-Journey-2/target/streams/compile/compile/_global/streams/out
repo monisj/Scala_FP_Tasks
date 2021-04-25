@@ -1,6 +1,6 @@
-[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Task4.scala:15:51: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Boolean[0m
-[0m[[0m[31merror[0m] [0m[0m required: Int => Boolean[0m
-[0m[[0m[31merror[0m] [0m[0m        println(s"Even Values = ${array.count(i%2 == 0)}") //Using Higher Order Function[0m
-[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/monis/Desktop/Scala_FP_Tasks/Learning-Journey-2/Task5.scala:12:44: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : scala.collection.immutable.Map[A,B][0m
+[0m[[0m[31merror[0m] [0m[0m required: Map[B,A][0m
+[0m[[0m[31merror[0m] [0m[0m        return(data zip data.map(d=>f(d))).toMap[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
