@@ -1,0 +1,92 @@
+left => which do right things (meaining that the left will do the task of the right scope) in curring function
+object curry
+{
+def add (a:Int) = (b:Int) =>a+b;
+
+def main()
+{
+println(add(2)(19));
+}
+}
+
+essentially it will store a then will only execute when we provide b then it will return the value
+
+partial Function
+
+object curry
+{
+def add (a:Int) = (b:Int) =>a+b;
+
+def main()
+{
+sum=add(2)
+println(sum(12));
+}
+}
+
+The only difference is that now we have a variable with the returned function then we execute it with sum at b = 12
+
+Array
+List
+Tuple		Self Study Topics H.W
+Set
+
+
+Map (Dictonary of Python concept)
+With a unique key and values (Which can be the same) arrange in an array
+
+Optiontype
+methods of Map (get)
+Get returns 3 things
+1. If a value is set it returns some(value)
+2. If it does not exxist it returns none
+3. can be used getorElse 
+
+mapcollection.get(3).getorElse("Not in the Collection")
+
+Map (2 -> "Hello" , 3-> "World")
+
+
+Iterator is a collection which holds present positions  //Container
+Iterator("Scala","is","Fun")
+iterator.hasNext returns a bool till the end of the list
+iterator.next returns the value
+
+
+
+Controller Design
+We are designing three designs techniques
+control, model, view
+
+ListLoopkup (Construct of a Chisel)
+equivalent to switch statement
+ListLoopup(io.inst,control.default,control.map)
+
+
+Scala Wildcard '_' (as a placeholder)
+i.e.
+import scala.collection._
+import chisel3._
+
+if to put a placeholder
+(x = > x > -1 ) x is being returned(List of Index) in which its index is compared if its greater than -1.
+(_ > -1) same but a wildcard is being used
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

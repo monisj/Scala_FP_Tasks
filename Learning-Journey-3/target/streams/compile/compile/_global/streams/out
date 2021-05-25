@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning-Journey-3\Exercise4.scala:33:38: missing parameter type for expanded function ((x$5: <error>) => Some(x$5))[0m
+[0m[[0m[31merror[0m] [0m[0m        def f(x:Int) = if (x>2) Some(_) else None[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

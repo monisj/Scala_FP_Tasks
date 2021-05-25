@@ -1,0 +1,106 @@
+Wildcard as a function assignment
+val f_max = scala.math.max_
+val f_abs = scala.math.abs_
+val max_value = f_max(1,5) # Print max value
+val abs_value = f_abs(-123) # Print absoulte value
+
+Hiding a class during import via scala
+import chisel3.util.{MuxCase -> _,_} # If we call we would get a not found error as the MuxCase library is hidden
+
+The apply Method
+Use in sequence,set,map
+some list
+some set
+some map
+
+apply method works as the constructor for a datatype
+
+print(somemap.apply(1)) # print the value in the map
+print(somelist.apply(1)) # Will print if the index is present or not
+print(someset.apply(22)) # is it in the set output true or false
+
+Zip and Unzip methods
+takes two lists as an input and creates a list by pariing elements from the two lists
+ulist1(20,40,60,80)
+ulits2(a,b,c)
+val ulistz= ulits1.zip(ulist2) # output will be (a,20),(b,40),(c,60) the rest will be discarded as in the ulist2 respective
+val ulisti = ulistz.unzip # will present the list in an unzip manner meaning (a,b,c), (20,40,60)
+val ulistj= ullist1.zipWithIndex # will present the items with its index (a,1),(b,2) ....
+
+Reduce Method
+binary function
+# will take the exsisting datatype that has been provided
+# Value in (a,b) taken from a datatype are random
+ulist.reduce((a,b)->a+b) # will perform addition and return the last return
+ulist.reduce(_+_)
+
+Order or reduce method
+ulist = list(1,2,3,4,5)
+usum = ulist.reduce(_-_)
+usum = ulist.reduceLeft(_-_) # take 2,1 3,2 ,4,3 ,5,4
+usum = ulist.reduceRight(_-_) #take 1,2 2,3 3,4 4,5
+
+Fold (almost same as reduce)
+only difference is that you provide the first element (it cannot work with empty list)
+ulist.fold(0,0)((a,b) -> (a._1+b._1,a._2,b._2)) # result is the same as reduce
+# we apply(0,0) to initialise fold
+it will add 0 with the first element of the tuple ( needs to be an empty value as it works on empty datastructures putting values will result in an error)
+
+Example:
+lets consider a string "abc" we want to concat a,b,c with :(hyphen) after the reduce function
+if we perform with fold we will get :a :b :c
+with reduce a: b: c:
+#reason the empty function will perform with the list first with the fold rather then performing function with reduce.
+# foldleft and foldright also works as the same as reduceleft and reduceright key difference is the empty datatype
+
+
+Map,map,flatMap Method
+Map (collection,datatype)
+map,flatMap(Method)
+
+it is a higher order function
+map takes function as a parameter
+returns the same datatype as provided 
+def square(a:Int):Int = {
+a*a
+}
+collection = List(1,2,3,4)
+collection.map(square) //Works as a higher order function
+
+map will make seperate lists whenever its called 
+flatmap will as the name suggest flat the list as to put all the values in the same list with different indexes
+map (List(1,2),List(3,4))
+flatmap(List(1,2,3,4)
+#mapValues (map values with function i.e. v -> v*2
+# Some Return None if no value is provided or option value if value is provided
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
