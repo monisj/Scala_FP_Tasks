@@ -1,11 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise9.scala:15:52: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
-[0m[[0m[31merror[0m] [0m[0m required: String[0m
-[0m[[0m[31merror[0m] [0m[0m        println(s"Number converted to string = ${a+b}")[0m
-[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise9.scala:16:52: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
-[0m[[0m[31merror[0m] [0m[0m required: String[0m
-[0m[[0m[31merror[0m] [0m[0m        println(s"Number converted to string = ${b+a}")[0m
-[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[33mwarn[0m] [0m[0mone feature warning; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
