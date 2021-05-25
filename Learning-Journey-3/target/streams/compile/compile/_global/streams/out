@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning-Journey-3\Exercise7.scala:7:32: no arguments allowed for nullary method apply: ()Int in class Add[0m
-[0m[[0m[31merror[0m] [0m[0m    println(s"${adder_list(List(1,2,3))}")[0m
-[0m[[0m[31merror[0m] [0m[0m                               ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m

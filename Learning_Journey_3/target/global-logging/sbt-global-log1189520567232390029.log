@@ -1,0 +1,260 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(15b0efa4-90b7-41ef-8382-6660a3f0bfb6), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\target\scala-2.12\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:1:8: not found: object chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:2:8: not found: object chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3.util._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:3:8: not found: object chisel3[0m
+[0m[[0m[31merror[0m] [0m[0mimport chisel3.experimental.{BaseModule}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:6:13: not found: type UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    def in1:UInt[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:7:13: not found: type UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    def in2:UInt[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:8:13: not found: type UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    def in3:UInt[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:9:13: not found: type UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    def in4:UInt[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:10:14: not found: type UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    def out1:UInt[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:11:14: not found: type UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    def out2:UInt[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:14:19: not found: type RawModule[0m
+[0m[[0m[31merror[0m] [0m[0mclass Add extends RawModule with ModuleIO {[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:15:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val in1 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:15:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m    val in1 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:15:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val in1 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:15:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val in1 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:16:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val in2 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:16:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m    val in2 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:16:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val in2 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:16:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val in2 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:17:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val in3 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:17:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m    val in3 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:17:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val in3 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:17:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val in3 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:18:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val in4 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:18:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m    val in4 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:18:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val in4 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:18:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val in4 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:19:15: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val out1 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:19:18: not found: value Output[0m
+[0m[[0m[31merror[0m] [0m[0m    val out1 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:19:25: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val out1 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:19:32: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val out1 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:20:15: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val out2 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:20:18: not found: value Output[0m
+[0m[[0m[31merror[0m] [0m[0m    val out2 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:20:25: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val out2 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:20:32: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val out2 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:22:5: not found: value out[0m
+[0m[[0m[31merror[0m] [0m[0m    out:=in1+in2[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:26:19: not found: type RawModule[0m
+[0m[[0m[31merror[0m] [0m[0mclass Sub extends RawModule with ModuleIO {[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:27:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val in1 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:27:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m    val in1 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:27:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val in1 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:27:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val in1 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:28:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val in2 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:28:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m    val in2 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:28:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val in2 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:28:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val in2 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:29:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val in3 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:29:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m    val in3 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:29:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val in3 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:29:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val in3 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:30:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val in4 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:30:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m    val in4 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:30:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val in4 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:30:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val in4 =IO(Input(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:31:15: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val out1 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:31:18: not found: value Output[0m
+[0m[[0m[31merror[0m] [0m[0m    val out1 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:31:25: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val out1 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:31:32: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val out1 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:32:15: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val out2 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:32:18: not found: value Output[0m
+[0m[[0m[31merror[0m] [0m[0m    val out2 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:32:25: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m    val out2 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:32:32: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m    val out2 =IO(Output(UInt(8.W)))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:34:5: not found: value out[0m
+[0m[[0m[31merror[0m] [0m[0m    out:=in1-in2[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:38:62: not found: type Module[0m
+[0m[[0m[31merror[0m] [0m[0mclass Top[T <: BaseModule with ModuleIO] (genT: =>T) extends Module{[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:38:16: not found: type BaseModule[0m
+[0m[[0m[31merror[0m] [0m[0mclass Top[T <: BaseModule with ModuleIO] (genT: =>T) extends Module{[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:39:14: not found: value IO[0m
+[0m[[0m[31merror[0m] [0m[0m    val io = IO(new Bundle{[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:39:21: not found: type Bundle[0m
+[0m[[0m[31merror[0m] [0m[0m    val io = IO(new Bundle{[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:40:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m        val in1=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:40:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m        val in1=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:40:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m        val in1=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:41:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m        val in2=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:41:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m        val in2=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:41:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m        val in2=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:42:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m        val in3=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:42:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m        val in3=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:42:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m        val in3=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:43:17: not found: value Input[0m
+[0m[[0m[31merror[0m] [0m[0m        val in4=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:43:23: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m        val in4=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:43:30: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m        val in4=Input(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:44:17: not found: value Output[0m
+[0m[[0m[31merror[0m] [0m[0m        val out=Output(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:44:24: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m        val out=Output(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:44:31: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m        val out=Output(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:45:18: not found: value Output[0m
+[0m[[0m[31merror[0m] [0m[0m        val out1=Output(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:45:25: not found: value UInt[0m
+[0m[[0m[31merror[0m] [0m[0m        val out1=Output(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:45:32: value W is not a member of Int[0m
+[0m[[0m[31merror[0m] [0m[0m        val out1=Output(UInt(8.W))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\Exercise8.scala:47:22: not found: value Module[0m
+[0m[[0m[31merror[0m] [0m[0m    val sub_Module = Module(genT)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m84 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed May 25, 2021 9:46:28 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
