@@ -4,12 +4,12 @@ object Exercise10{
 
     def implcit(a:Any,b:Any):Unit = {
         implicit def any_input(a:Any,b:Any):String = {
-            a.toString()
-            b.toString()
+            return a.toString()+b.toString()
+            
         }
-        val a_Seq : Any = (a + b.toString())
-        println(s"Concatinated with number and string = ${a_Seq}")
-
+        val cat = any_input(a,b)
+        println(s"Number converted to string = ${cat}")
+        println(s"Number converted to string = ${a}")
 }
-        implcit(36,"Monis")}
+        implcit(36,46)}
 }
