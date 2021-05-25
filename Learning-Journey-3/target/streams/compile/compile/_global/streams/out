@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning-Journey-3\Exercise4.scala:33:38: missing parameter type for expanded function ((x$5: <error>) => Some(x$5))[0m
-[0m[[0m[31merror[0m] [0m[0m        def f(x:Int) = if (x>2) Some(_) else None[0m
-[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning-Journey-3\Exercise4.scala:46:35: missing parameter type for expanded function ((x$8: <error>) => x$8.$minus$greater(v.$times(2)))[0m
+[0m[[0m[31merror[0m] [0m[0m        def h(k:Int,v:Int) = Some(_->v*2)[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

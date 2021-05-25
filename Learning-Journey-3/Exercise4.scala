@@ -42,6 +42,18 @@ object Exercise4{
         val uMap = Map ('a'->2,'b'->4,'c'->6)
         val uMap_mapValues = uMap.mapValues(_*2)
         println(s"Maped doubled values =${uMap_mapValues}")
+
+        def h(k:Int,v:Int) = Some(k->v*2)
+        val uMap_map=uMap.map {
+            case(k,v) =>h(k,v)
+        }
+        println(s"Maped double using .map = ${uMap_map}")
+
+        val uMap_flatMap = uMap.flatMap {
+            case (k,v) => h(k,v)
+
+        }
+        println(s"Maped double using .flatmap = ${uMap_flatMap}")
     }
 
     
