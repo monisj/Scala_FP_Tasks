@@ -22,7 +22,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\koolm\Desktop\Scala_FP_Tasks\Learning_Journey_3\target\scala-2.12\classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.5.0:compile for Scala 2.12.13[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4ee9d4ef for Scala compiler version 2.12.13[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 128327ab for Scala compiler version 2.12.13[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files\Java\jre1.8.0_231\lib\resources.jar;C:\Program Files\Java\jre1.8.0_231\lib\rt.jar;C:\Program Files\Java\jre1.8.0_231\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_231\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_231\lib\jce.jar;C:\Program Files\Java\jre1.8.0_231\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_231\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_231\classes;C:\Users\koolm\.sbt\boot\scala-2.12.13\lib\scala-library.jar[0m
@@ -34,5 +34,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.4364708 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.4719948 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m

@@ -7,8 +7,8 @@ object Exercise10{
             a.toString()
             b.toString()
         }
-        val a_Seq : Any = (a + b.toString() ) :Any
-        println(a_Seq)
+        val a_Seq : Any = (a + b.toString())
+        println(s"Concatinated with number and string = ${a_Seq}")
 
 }
         implcit(36,"Monis")}
