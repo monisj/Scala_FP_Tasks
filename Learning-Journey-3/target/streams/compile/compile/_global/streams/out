@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning-Journey-3\Exercise5.scala:57:26: could not find implicit value for parameter transformWith: Transformation[TypicalFSM.Message2,TypicalFSM.State1,NewState][0m
-[0m[[0m[31merror[0m] [0m[0m        val (s4, r3) = s1(Message2("m2"))[0m
-[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\koolm\Desktop\Scala_FP_Tasks\Learning-Journey-3\Exercise7.scala:7:32: no arguments allowed for nullary method apply: ()Int in class Add[0m
+[0m[[0m[31merror[0m] [0m[0m    println(s"${adder_list(List(1,2,3))}")[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
